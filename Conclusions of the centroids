@@ -1,0 +1,16 @@
+A:
+ Cluster A is represented by a customer profile such that they are men with a car, property, high income, two children on average, and income associated with trade. That they have education mainly up to special high school
+ and they are civilly married.
+
+B:
+B is made up of women without a car, with property, 2 children on average, with low income, income from work, with an academic degree, married civilly
+ or single
+
+C:
+Men with a car and property, 2 children, quite high income, their income is of the Student type and they have completed advanced education, married.
+
+D:
+Men with property, 2 children, average annual income, income that comes from being state servants and workers, studied through high school, widows.
+
+E:
+Men with property, 2 children, medium-low income, pensioners, who studied until high school, divorced
